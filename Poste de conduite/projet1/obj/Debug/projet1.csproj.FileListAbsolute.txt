@@ -11,3 +11,16 @@ D:\IRIS2014\paphassarangc\projet1\projet1\obj\Debug\projet1.Properties.Resources
 D:\IRIS2014\paphassarangc\projet1\projet1\obj\Debug\projet1.csproj.GenerateResource.Cache
 D:\IRIS2014\paphassarangc\projet1\projet1\obj\Debug\projet1.exe
 D:\IRIS2014\paphassarangc\projet1\projet1\obj\Debug\projet1.pdb
+C:\Users\Oxachon\Documents\GitHub\AMFL2014\Poste de conduite\projet1\bin\Debug\projet1.exe.config
+C:\Users\Oxachon\Documents\GitHub\AMFL2014\Poste de conduite\projet1\obj\Debug\projet1.exe
+C:\Users\Oxachon\Documents\GitHub\AMFL2014\Poste de conduite\projet1\obj\Debug\projet1.pdb
+C:\Users\Oxachon\Documents\GitHub\AMFL2014\Poste de conduite\projet1\bin\Debug\projet1.exe
+C:\Users\Oxachon\Documents\GitHub\AMFL2014\Poste de conduite\projet1\bin\Debug\projet1.pdb
+C:\Users\Oxachon\Documents\GitHub\AMFL2014\Poste de conduite\projet1\obj\Debug\projet1.csprojResolveAssemblyReference.cache
+C:\Users\Oxachon\Documents\GitHub\AMFL2014\Poste de conduite\projet1\obj\Debug\MainWindow.baml
+C:\Users\Oxachon\Documents\GitHub\AMFL2014\Poste de conduite\projet1\obj\Debug\MainWindow.g.cs
+C:\Users\Oxachon\Documents\GitHub\AMFL2014\Poste de conduite\projet1\obj\Debug\App.g.cs
+C:\Users\Oxachon\Documents\GitHub\AMFL2014\Poste de conduite\projet1\obj\Debug\projet1_MarkupCompile.cache
+C:\Users\Oxachon\Documents\GitHub\AMFL2014\Poste de conduite\projet1\obj\Debug\projet1.g.resources
+C:\Users\Oxachon\Documents\GitHub\AMFL2014\Poste de conduite\projet1\obj\Debug\projet1.Properties.Resources.resources
+C:\Users\Oxachon\Documents\GitHub\AMFL2014\Poste de conduite\projet1\obj\Debug\projet1.csproj.GenerateResource.Cache

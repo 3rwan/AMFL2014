@@ -8,10 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("boutton.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("bouttoncoch%c3%a9.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("coche.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("feu.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("off.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("back.png")]
 
 
