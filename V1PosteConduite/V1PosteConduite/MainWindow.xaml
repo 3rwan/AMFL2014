@@ -1,0 +1,11 @@
+﻿<Window x:Class="V1PosteConduite.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="720" Width="1280">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/back.png" />
+        </Grid.Background>
+        <Image HorizontalAlignment="Left" Height="80" Margin="902,42,0,0" VerticalAlignment="Top" Width="80" Source="Images/noncoche.png"/>
+    </Grid>
+</Window>

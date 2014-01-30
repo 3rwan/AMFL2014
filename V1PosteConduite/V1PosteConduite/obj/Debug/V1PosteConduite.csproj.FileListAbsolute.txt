@@ -1,0 +1,13 @@
+c:\users\oxachon\documents\visual studio 2012\Projects\V1PosteConduite\V1PosteConduite\bin\Debug\V1PosteConduite.exe.config
+c:\users\oxachon\documents\visual studio 2012\Projects\V1PosteConduite\V1PosteConduite\bin\Debug\V1PosteConduite.exe
+c:\users\oxachon\documents\visual studio 2012\Projects\V1PosteConduite\V1PosteConduite\bin\Debug\V1PosteConduite.pdb
+c:\users\oxachon\documents\visual studio 2012\Projects\V1PosteConduite\V1PosteConduite\obj\Debug\V1PosteConduite.csprojResolveAssemblyReference.cache
+c:\users\oxachon\documents\visual studio 2012\Projects\V1PosteConduite\V1PosteConduite\obj\Debug\MainWindow.baml
+c:\users\oxachon\documents\visual studio 2012\Projects\V1PosteConduite\V1PosteConduite\obj\Debug\MainWindow.g.cs
+c:\users\oxachon\documents\visual studio 2012\Projects\V1PosteConduite\V1PosteConduite\obj\Debug\App.g.cs
+c:\users\oxachon\documents\visual studio 2012\Projects\V1PosteConduite\V1PosteConduite\obj\Debug\V1PosteConduite_MarkupCompile.cache
+c:\users\oxachon\documents\visual studio 2012\Projects\V1PosteConduite\V1PosteConduite\obj\Debug\V1PosteConduite.g.resources
+c:\users\oxachon\documents\visual studio 2012\Projects\V1PosteConduite\V1PosteConduite\obj\Debug\V1PosteConduite.Properties.Resources.resources
+c:\users\oxachon\documents\visual studio 2012\Projects\V1PosteConduite\V1PosteConduite\obj\Debug\V1PosteConduite.csproj.GenerateResource.Cache
+c:\users\oxachon\documents\visual studio 2012\Projects\V1PosteConduite\V1PosteConduite\obj\Debug\V1PosteConduite.exe
+c:\users\oxachon\documents\visual studio 2012\Projects\V1PosteConduite\V1PosteConduite\obj\Debug\V1PosteConduite.pdb
