@@ -24,3 +24,6 @@ C:\Users\Oxachon\Documents\GitHub\AMFL2014\Poste de conduite\projet1\obj\Debug\p
 C:\Users\Oxachon\Documents\GitHub\AMFL2014\Poste de conduite\projet1\obj\Debug\projet1.g.resources
 C:\Users\Oxachon\Documents\GitHub\AMFL2014\Poste de conduite\projet1\obj\Debug\projet1.Properties.Resources.resources
 C:\Users\Oxachon\Documents\GitHub\AMFL2014\Poste de conduite\projet1\obj\Debug\projet1.csproj.GenerateResource.Cache
+C:\Users\Projet\Documents\GitHub\AMFL2014\Poste de conduite\projet1\bin\Debug\projet1.exe.config
+C:\Users\Projet\Documents\GitHub\AMFL2014\Poste de conduite\projet1\obj\Debug\projet1.exe
+C:\Users\Projet\Documents\GitHub\AMFL2014\Poste de conduite\projet1\obj\Debug\projet1.pdb
