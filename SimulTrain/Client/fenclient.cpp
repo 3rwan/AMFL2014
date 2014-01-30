@@ -16,13 +16,15 @@ FenClient::FenClient(QWidget *parent) :
     connect(socket, SIGNAL(connected()), this, SLOT(connecte()));
     connect(socket, SIGNAL(disconnected()), this, SLOT(deconnecte()));
     connect(socket, SIGNAL(error(QAbstractSocket::SocketError)), this, SLOT(erreurSocket(QAbstractSocket::SocketError)));
-   connect(ui->SliderVitesse, SIGNAL(valueChanged(int)),ui->lcdNumber, SLOT(display(int)));
+    connect(ui->SliderVitesse, SIGNAL(valueChanged(int)),ui->lcdNumber, SLOT(display(int)));
     connect(ui->SliderFrein, SIGNAL(valueChanged(int)),ui->lcdNumber2, SLOT(display(int)));
     connect(ui->SliderVitesse, SIGNAL(sliderReleased()),this, SLOT(on_SliderVitesse_valueChanged()));
     connect(ui->SliderFrein, SIGNAL(sliderReleased()),this, SLOT(on_SliderFrein_valueChanged()));
 
     ui->lcdNumber->setSegmentStyle(QLCDNumber::Flat); //pour être plus lisible
     ui->lcdNumber2->setSegmentStyle(QLCDNumber::Flat);
+
+    ui->verticalLayout->alignment();
 
     tailleMessage = 0;// pour permettre la réception de nouveaux messages.
 }
