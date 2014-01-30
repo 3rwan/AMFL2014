@@ -1,0 +1,13 @@
+D:\IRIS2014\paphassarangc\projet1\projet1\bin\Debug\projet1.exe.config
+D:\IRIS2014\paphassarangc\projet1\projet1\bin\Debug\projet1.exe
+D:\IRIS2014\paphassarangc\projet1\projet1\bin\Debug\projet1.pdb
+D:\IRIS2014\paphassarangc\projet1\projet1\obj\Debug\projet1.csprojResolveAssemblyReference.cache
+D:\IRIS2014\paphassarangc\projet1\projet1\obj\Debug\MainWindow.baml
+D:\IRIS2014\paphassarangc\projet1\projet1\obj\Debug\MainWindow.g.cs
+D:\IRIS2014\paphassarangc\projet1\projet1\obj\Debug\App.g.cs
+D:\IRIS2014\paphassarangc\projet1\projet1\obj\Debug\projet1_MarkupCompile.cache
+D:\IRIS2014\paphassarangc\projet1\projet1\obj\Debug\projet1.g.resources
+D:\IRIS2014\paphassarangc\projet1\projet1\obj\Debug\projet1.Properties.Resources.resources
+D:\IRIS2014\paphassarangc\projet1\projet1\obj\Debug\projet1.csproj.GenerateResource.Cache
+D:\IRIS2014\paphassarangc\projet1\projet1\obj\Debug\projet1.exe
+D:\IRIS2014\paphassarangc\projet1\projet1\obj\Debug\projet1.pdb
